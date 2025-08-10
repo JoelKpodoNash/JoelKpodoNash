@@ -37,4 +37,4 @@
 
 ---
 
-⭐ *"Code is like art — make it functional, make it beautiful, and make it yours."*
+⭐ *"Code is like art make it functional, make it beautiful, and make it yours."*
